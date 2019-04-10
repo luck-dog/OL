@@ -1,0 +1,16 @@
+.main{background-color: white;}
+.main_1{background-color: #d8d8d8;}
+.main_1_top{width: 1200px;margin: auto;font-size: 16px;color: #8d8d8d;height: 40px;line-height: 40px;}
+.main_1_conter{background: url(../images/project_01.png);background-size:100% 100%;width: 100%;height: 700px;}
+.main_1_conter_yuan{width: 110px;margin: auto;top: 660px;position: relative;}
+.main_1_conter_yuan div{width: 10px;height: 10px;border-radius: 50%;background-color: #aaa9aa;}
+.main_1_booter ul{list-style:none;width: 450px;}
+.main_1_booter ul li{color: #8d8d8d;}
+.main_1_booter p{font-size:20px ;color: #8d8d8d;margin-bottom: 5px;}
+.main_1_booter{width: 1200px;margin: auto;text-align: center;}
+.main_2{width: 1200px;margin: auto;}
+.main_2 ul{margin-bottom: 35px;margin-top: 35px;}
+.main_2 ul li{width: 380px;list-style: none;border: 1px solid #b6b6b6;}
+.main_2_p{margin-left: 20px;line-height: 30px;font-size:14px ;color: #606060;}
+.main_3{width: 220px;margin: auto;padding-bottom: 70px;color: #999999;}
+.main_3 div{width: 106px;height: 35px;line-height: 35px;text-align: center;border: 1px solid #999999;}

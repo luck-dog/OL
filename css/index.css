@@ -1,0 +1,30 @@
+/*白色背景部分*/
+.main_w{width: 100%;background-color: white;}
+.main_w>img{height: 844px;width:100%;}
+.main_b_right_p{height:25px;width: 72px;text-align: center;line-height:25px;font-size: 14px;margin-top: 15px;color: #484848;border: 1px solid #999999;}
+.main_b{margin: auto;width: 1200px;margin-top: 36px;margin-bottom: 40px;}
+.main_b_left{width: 470px;height: 312px;}
+.main_b_right{width:700px;}
+/*灰色背景部分*/
+.main_hui{background-color: #efefef;}
+/*新闻*/
+.main_news{width: 1200px;margin: auto;padding-top: 42px;}
+.main_news >ul>li{list-style: none;width: 359px;margin-top: 15px;padding-left: 25px;border: 1px solid #c6c6c6;height: 280px;}
+.main_bews_div1{background-color:#777777;height: 1px;width: 74px;margin-top:30px;margin-bottom: 10px;}
+.main_bews_div2{color: #000000;font-size: 14px;margin:30px 0px;line-height: 25px;}
+.main_news_p{font-size: 14px;color: #777777;}
+/*项目*/
+.main_project{margin-top: 40px;background-color: #727071;padding-bottom: 50px;}
+.main_project>ul>li{list-style: none;background-color: white;width: 780px;padding-bottom: 25px;}
+.main_project_span{color: #5c5c5c;font-size: 14px;line-height: 30px;}
+.main_project_p{height:25px;width: 72px;text-align: center;line-height:25px;font-size: 14px;margin-top: 40px;color: #484848;border: 1px solid #999999;}
+/*产品*/
+.main_product{width: 1200px;margin: auto;}
+.main_product>ul{height: 325px;}
+.main_product>ul>li{list-style: none;width: 390px;}
+.main_product_p{padding-top:10px ;padding-bottom: 40px;margin-left: 15px;}
+/*产品视频*/
+.main_productVideo{width: 100%;background-color: #888888;}
+.main_productVideo_1{width: 1200px;margin: auto;padding-bottom: 45px;}
+.main_productVideo_1 ul li{list-style: none;width: 390px;border: 1px solid #b7b8ba;}
+

@@ -1,0 +1,20 @@
+.main{background-color: #f4f4f4;border-bottom: 1px solid #d8d8d8;width: 100%;}
+.main_1{width: 100%;}
+.main_2{width: 1200px;margin: auto;}
+.main_2_ul>ul>li:hover{background-color:#efefef;}
+.main_2_ul>ul>li{list-style: none;width: 240px;background-color: #dcdcdc;}
+.main_2_div1{width: 100px;margin: auto;color: #077f44;font-size:16px ;}
+.main_2_p1{text-align: right;}
+.main_3{width: 1200px;margin: auto;}
+.main_3_div1{width: 100px;color: #077f44;font-size:16px ;margin-top: 25px;}
+.main_3_div2{width:920px;font-size: 14px;color: #767676;margin: auto;margin-top:20px ;line-height: 30px;}
+.main_3_div{background: url(../images/about_05.png)no-repeat;background-position: right;}
+.main_3_div3{width:920px;font-size: 14px;color: #565656;margin: auto;line-height: 28px;margin-top: 30px;}
+.main_3_div3_1{padding-top: 23px;}
+/*资历荣誉*/
+.main_3_div2>ul>li{list-style: none;width: 300px;border: 1px solid #b6b6b6;margin-top: 30px;}
+.main_3_div2_1{width:920px;font-size: 14px;color: #767676;margin: auto;margin-top:20px ;line-height: 30px;}
+.main_3_div2_1 ul li{list-style: none;width: 300px;border: 1px solid #b6b6b6;margin-top: 30px;height: 405px;}
+.main_3_div2_2{margin-left: 15px;}
+.main_3_div4{width: 222px;margin: auto;margin-top: 20px;margin-bottom: 30px;}
+.main_3_div4 div{width: 106px;height: 35px;line-height: 35px;text-align: center;border: 1px solid #999999;}
